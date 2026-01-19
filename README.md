@@ -1,7 +1,4 @@
-## Hi there 👋
-
-<!--
-*# 💫 About Me:
+# 💫 About Me:
 I’m currently working on building a full-stack web application focused on real-time data visualization.<br>I’m looking to collaborate on Open Source projects involving TypeScript, React, or anything that helps improve developer productivity.<br><br>🤝 I’m looking for help with mastering Cloud Architecture and optimizing CI/CD pipelines for faster deployments.<br><br>🌱 I’m currently learning the intricacies of Go (Golang) and exploring the latest updates in System Design.
 
 
@@ -24,5 +21,4 @@ I’m currently working on building a full-stack web application focused on real
 ---
 [![](https://visitcount.itsvg.in/api?id=manasvi-0523&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->*manasvi-0523/manasvi-0523** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
