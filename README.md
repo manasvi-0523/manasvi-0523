@@ -1,5 +1,4 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>Study Buddy, an intuitive educational platform designed to streamline collaborative learning and resource management. I am currently focused on refining the core logic and optimizing SDK integrations to ensure a high-performance user experience.<br></n>
 🤝I’m looking for help with<br>Advanced DevOps workflows and cloud deployment strategies. As I scale my current projects, I am eager to learn industry best practices for CI/CD pipelines and automated testing.<br>
 🌱 I’m currently learning<br>I am a developer-in-training currently building Study Buddy. I believe in 'learning in public' and using every tool available—from AI to documentation—to solve problems. Right now, I'm mastering the basics of full-stack frameworks <br></n>
 ⚡ Fun fact<br>I'm an AI-assisted learner. I use AI to help me debug and explain complex concepts, which helps me build projects faster while I'm still mastering the fundamentals..
