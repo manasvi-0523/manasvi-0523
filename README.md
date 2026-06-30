@@ -17,8 +17,6 @@ I'm at that stage where I'm learning a lot, building things slowly, and trying t
 ### 🔧 Currently Learning
 
 - Python (actually learning it, not just using it)
-- Cybersecurity fundamentals — how attacks work, how defenses are built
-- Basics of blockchain and why it matters in security
 - HTML & working toward full-stack development
 
 ---
@@ -27,8 +25,6 @@ I'm at that stage where I'm learning a lot, building things slowly, and trying t
 
 - AI and how it intersects with real-world security problems
 - What it actually takes to go from an idea → a working project
-- Open source — reading other people's code to understand how things are built
-
 ---
 
 ### 📌 What I'm Working Toward
