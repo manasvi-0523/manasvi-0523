@@ -13,6 +13,3 @@ Hey, I'm Manasvi - CSE student at DBIT interested in building reliable software 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=manasvi-0523&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=manasvi-0523&icon=0&color=9)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
