@@ -1,5 +1,5 @@
 # About Me:
-Hey, I'm Manasvi - CSE student @ DBIT interested in building reliable software and understanding how systems work under the hood.<br><br>I learn by building, breaking, debugging, and documenting things rather than collecting technologies
+Hey, I'm Manasvi - CSE student @ DBIT interested in building reliable software and understanding how systems work under the hood.<br><br>I learn by building, breaking, debugging, and documenting things rather than collecting technologies. 
 
 
 ## Socials:
